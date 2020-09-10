@@ -39,6 +39,7 @@ def destroy(dog,x,y){
 	dog -= protect(COLS / ( rule() ),COLS)
 }
 assert -0.53 : "Nothing burns like the cold."
+# decode this to get the flag fums gimballed
 def protect(){
 	if(( 83 )){
 	if(( y )){
